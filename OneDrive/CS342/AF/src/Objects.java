@@ -1,0 +1,5 @@
+
+public enum Objects 
+{
+	PLAYERCRAFT,ENEMYCRAFT,BLOCK,BOARD,MISSILE;
+}
